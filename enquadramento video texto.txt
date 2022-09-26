@@ -1,0 +1,6 @@
+Muito bom dia, eu sou o Guilherme Palumbo estudante de Mestrado em Engenharia Informática, e estou acompanhado pelo meu colega Miguel Guimarães Mestre em Engenharia Informática. Ambos estávamos envolvidos em Bolsas de Investigação durante o mestrado, orientadas a Machine Learning com o foco em Meta-Learning. O trabalho desenvolvido por ambos continuará a ser desenvolvido em doutoramento. 
+Por ultimo a equipa é também constituída pelo Davide Carneiro, professor da ESTG e investigador do CIICESI. Não só, mas o Davide é co-fundador da start-up AnyBrain e está atualmente envolvido em 2 projetos europeus na área e ainda a coordenar outros 2 projetos nacionais. 
+
+
+O projeto constitui num sistema de recomendação de algoritmos capaz de fazer a previsão dos melhores modelos para um determinado problema de ML, utilizando Meta-Learning. Isto permitirá reduzir drasticamente o tempo e recursos gastos pelas organizações na busca dos melhores modelos em cada momento. Atualmente temos um protótipo desenvolvido em contexto de tese de mestrado, em que o nosso sistema é capaz de fazer a previsão das métricas de performance e do tempo para todo o tipo de problemas de regressão e classificação binária, e com base nas previsões recomendar o melhor modelo, ou um top-n de melhores modelos para esse problema.
+Muito obrigado por nos considerarem. 
